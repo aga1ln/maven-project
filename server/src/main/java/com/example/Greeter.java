@@ -13,8 +13,8 @@ public class Greeter {
   }
 
   /**
-	@ method : greet
-	@return string
+	* This is  a method : greet
+	* This method returns a  string
   */
 
   public final String greet(final String someone) {
